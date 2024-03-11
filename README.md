@@ -7,8 +7,21 @@
 
 ## Content
 
-1. [Run locally](#run-locally)
-2. [Port](#port)
+1. [Change log](#change-log)
+2. [Run locally](#run-locally)
+3. [Port](#port)
+
+## Change Log
+
+1. I built this project with the instructor.
+
+## Starting project
+
+- The project based on the starting project from the course.
+- It contents:
+    - basic Vite project
+    - CSS codes
+    - `components.png`, `config.png`, `jsx.png`, `react-core-concepts.png` and `state-mgmt.png`
 
 ## Run locally
 
