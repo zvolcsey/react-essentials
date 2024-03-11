@@ -3,6 +3,7 @@ import propsImg from './assets/config.png';
 import jsxImg from './assets/jsx-ui.png';
 import stateImg from './assets/state-mgmt.png';
 
+// Source: https://github.com/academind/react-complete-guide-course-resources/blob/main/attachments/03%20React%20Essentials/data-with-examples.js
 export const CORE_CONCEPTS = [
   {
     image: componentsImg,
